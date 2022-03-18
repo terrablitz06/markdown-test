@@ -12,7 +12,12 @@ My Task for Today
 - [x] Music
 - [ ] Math
 
-| Syntax | Description |
+| Day | Number |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Sunday |  00110001 |
+| Monday |  00110010 |
+| Tuesday |   00110011 |
+| Wednesday |   00110100 |
+| Thursday |   00110101 |
+| Friday |    00110110 |
+| Saturday |   00110111 |
