@@ -8,6 +8,11 @@ Just to try markdown
 
 My Task for Today
 - [ ] Art
-- [x] Social Studied
+- [x] Social Studies
 - [x] Music
 - [ ] Math
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
